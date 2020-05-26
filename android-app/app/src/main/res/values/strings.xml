@@ -9,4 +9,14 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- SPLASH SCREEN -->
+    <string name="splash_title">TO DO</string>
+    <string name="acceptPermission">Accept</string>
+    <string name="declinePermission">Decline</string>
+    <string name="main_today">Today</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="activities">To do</string>
 </resources>
