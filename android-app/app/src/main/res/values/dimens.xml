@@ -4,4 +4,5 @@
     <dimen name="main_margin_container_top">54dp</dimen>
     <dimen name="main_margin_default">12dp</dimen>
     <dimen name="menu_filter_card_corner_radius">5dp</dimen>
+    <dimen name="bigRadius">60dp</dimen>
 </resources>

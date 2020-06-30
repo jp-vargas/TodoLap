@@ -1,13 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
-        android:id="@+id/home"
+        android:id="@+id/navTodoFragment"
         android:enabled="true"
-        android:icon="@drawable/ic_home"
-        android:title="@string/home"/>
+        android:icon="@drawable/ic_bm_todo"
+        android:title="@string/todo"/>
     <item
-        android:id="@+id/settings"
+        android:id="@+id/budget"
         android:enabled="true"
-        android:icon="@drawable/ic_menu_settings"
+        android:icon="@drawable/ic_bm_budget"
+        android:title="@string/budget"/>
+    <item
+        android:id="@+id/expenses"
+        android:enabled="true"
+        android:icon="@drawable/ic_bm_expenses"
+        android:title="@string/expenses"/>
+    <item
+        android:id="@+id/timer"
+        android:enabled="true"
+        android:icon="@drawable/ic_bm_timer"
+        android:title="@string/timer"/>
+    <item
+        android:id="@+id/navSettingsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_bm_settings"
         android:title="@string/settings"/>
 </menu>
